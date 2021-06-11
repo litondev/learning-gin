@@ -1,0 +1,8 @@
+# buat project (COMPOSER INIT DAN NPM INIT)
+go mod init example.com/gin
+
+# install depedency (SEPERTI COMPOSER REQUIRE NAMA PACKGAE DAN NPM INSTALL NAMA PACKAGE)
+go get PACKAGE_NAME
+
+# download depedency (SEPERTI COMPOSER INSTALL DAN NPM INSTALL)
+go mod download
