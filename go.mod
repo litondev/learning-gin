@@ -1,4 +1,4 @@
-module github.com/litondev
+module github.com/litondev/learning-gin
 
 go 1.16
 
